@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">lesson_2</string>
+    <string name="navigate_button_label">navigate</string>
 </resources>
